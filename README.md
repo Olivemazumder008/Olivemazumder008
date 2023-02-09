@@ -1,11 +1,11 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
 <h1 align="center">Hi 👋, I'm olivemazumder008</h1>
-<h3 align="center">A passionate frontend developer | Researcher from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer | Programmer | Researcher from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://www.pywe.org/media/accounts/static/lessons/uploads/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivemazumder008&label=Profile%20views&color=0e75b6&style=flat" alt="olivemazumder008" /> </p>
 
-- 🔭 I’m currently working on **Block-chain**
+- 🔭 I’m currently working on **Block-chain | IoT | XAI | Metaverse | AR**
 
 - 🌱 I’m currently learning **Linux**
 
